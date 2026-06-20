@@ -1,16 +1,62 @@
-# React + Vite
+# React Job Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that displays job listings using reusable components and dynamic rendering.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Built with React and Vite
+* Reusable Job Card component
+* Dynamic rendering using `map()`
+* Company logos and job details
+* Responsive card layout
+* Clean and modern UI
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript
+* CSS
+* Vite
 
-## Expanding the ESLint configuration
+## Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Displays job listings from an array of objects containing:
+
+* Company Name
+* Company Logo
+* Position
+* Date Posted
+* Employment Type
+* Experience Level
+* Salary
+* Location
+
+## What I Learned
+
+* Creating React components
+* Passing props
+* Rendering lists using `map()`
+* Using unique keys
+* Organizing project structure
+* Styling React applications
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Future Improvements
+
+* Search jobs
+* Filter by category
+* Save/Favorite jobs
+* API integration
+* Backend support
+
+## Author
+
+Shamoon Hossain
+B.Tech CSE Student
+Aspiring Full-Stack Developer
