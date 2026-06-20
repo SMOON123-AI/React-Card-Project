@@ -20,16 +20,7 @@ A simple React application that displays job listings using reusable components 
 
 ## Preview
 
-Displays job listings from an array of objects containing:
-
-* Company Name
-* Company Logo
-* Position
-* Date Posted
-* Employment Type
-* Experience Level
-* Salary
-* Location
+![Project Screenshot](./public/project-preview.png)
 
 ## What I Learned
 
@@ -54,9 +45,4 @@ npm run dev
 * Save/Favorite jobs
 * API integration
 * Backend support
-
-## Author
-
-Shamoon Hossain
-B.Tech CSE Student
-Aspiring Full-Stack Developer
+* 
