@@ -45,4 +45,3 @@ npm run dev
 * Save/Favorite jobs
 * API integration
 * Backend support
-* 
